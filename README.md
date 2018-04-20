@@ -11,7 +11,7 @@ composer require drupal/console-extend-example
 
 ### Install globally:
 ```
-cd cd ~/.console/extend/
+cd ~/.console/extend/
 
 composer require drupal/console-extend-example
 ```
